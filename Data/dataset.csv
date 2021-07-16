@@ -1,0 +1,802 @@
+﻿Billing Country,Billing State,Browser,Created By,Device Brand,Device Type,Email Permission,Email Status,Email Status Reason,Event Type,Order Source,Order Status,Os,Os Version,Payment Method,Segment,Updated By,Discounted Price,Item Count,Quantity,Shipping,Total Amount,Unit Price
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,37500,3,3,0,3442000,11500
+NG,Imo,Samsung Internet,-5,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Bank Transfer or Bank Deposit,customer,-5,39000,3,3,0,3000000,11500
+NG,Ogun,Chrome,-5,Generic_Android_Tablet,T,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,63000,4,4,0,2875000,14750
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,88000,4,4,0,2740000,20500
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,1000,1,1,0,2636000,295000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,27800,2,2,0,2320850,13000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card or Online with Bank,customer,-5,15500,1,1,0,2170000,14750
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,24950,7,5,0,2110000,650
+Unknown,Unknown,Chrome Mobile,-5,Huawei,M,TRUE,P,SB,order,checkout,completed,Android,8,Pay with a Debit/Credit Card or Online with Bank,customer,-5,25000,2,2,0,2102300,11500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,26000,2,2,0,2000000,12000
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,refunded,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,12750,1,1,0,1905080,11500
+NG,Rivers,Opera Mobile,-5,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Bank Transfer or Bank Deposit,customer,-5,12750,1,1,1250,1876500,11500
+NG,Abia,UC Browser,-5,Gionee,M,TRUE,A,Unknown,order,checkout,completed,Android,6,Pay with a Debit/Credit Card or Online with Bank,customer,-5,16250,1,1,0,1795000,14750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,16250,1,1,0,1750000,14750
+NG,Anambra,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,165750,13,13,0,1725000,11500
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,42000,3,3,0,1611000,13000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,P,HB,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,36250,1,1,0,1513990,35250
+NG,Ogun,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,14000,1,1,0,1381500,13000
+Unknown,Unknown,Chrome Mobile,-5,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,22000,1,1,0,1365200,20500
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,FALSE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,5775,3,3,0,1340790,16750
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,73000,4,4,0,1256000,16750
+NG,Delta,Chrome Mobile,-5,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,88750,5,5,0,1156516,16750
+NG,Lagos,Firefox Mobile,-5,Generic,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,64500,4,2,0,1155000,17250
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,48000,3,3,0,1140000,15000
+Unknown,Unknown,Chrome Mobile,-13,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,2400,1,1,0,1129250,2400
+NG,Federal Capital Territory,Chrome Mobile,-5,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,3900,1,1,0,1110000,3000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,72000,4,4,0,1098340,16750
+NG,Lagos,Firefox,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card or Online with Bank,customer,-5,31000,2,1,0,1098000,13000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,13750,1,1,0,1076050,13000
+NG,Katsina,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,81755,5,5,0,1027800,16000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,21750,1,1,0,1027300,20500
+NG,Edo,Chrome Mobile,-5,Itel,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,subscriber,-5,63050,4,2,0,1020000,13000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,P,Unknown,order,checkout,refunded,Windows,8,Bank Transfer or Bank Deposit,customer,-5,166580,279,279,0,1020000,520
+Unknown,Unknown,Chrome,-13,Generic_Android_Tablet,T,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,1156516,1000,1000,0,1016000,1620
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,P,HB,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,154500,9,4,0,959100,20500
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,17500,1,1,0,944500,16000
+NG,Lagos,Chrome Mobile,-5,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,54750,3,3,0,908600,16750
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,18250,1,1,0,899200,16750
+NG,Ondo,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,"contributor, customer",-5,37500,1,1,0,820000,34000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,17750,1,1,0,800000,16750
+Unknown,Unknown,Chrome Mobile,-13,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,500,3,3,0,776000,16750
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card or Online with Bank,customer,-5,27500,2,2,0,767400,13000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,15600,1,1,0,759500,15000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,P,HB,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,14500,1,1,0,733500,13000
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,57750,3,3,0,704400,18000
+NG,Federal Capital Territory,Chrome Mobile,-5,Itel,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,18900,1,1,0,669000,18000
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,34000,2,2,0,637950,15500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,36500,2,2,0,630000,16750
+NG,Ondo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,18250,1,1,0,627500,17250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,134250,6,5,0,622465,18000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,3500,1,1,0,618200,3500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,18250,1,1,0,618000,16750
+NG,Niger,Unknown,-5,Unknown,Unknown,TRUE,P,HB,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,19200,1,1,0,614000,18000
+NG,Rivers,Chrome Mobile,-5,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card or Online with Bank,customer,-5,28500,2,2,0,585000,13000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,P,HB,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,18000,1,1,0,583650,16750
+Unknown,Unknown,Chrome Mobile,-13,Itel,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,500,12,3,0,565000,2000
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,14000,1,1,0,540000,13000
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Unknown,customer,-5,0,1,1,0,523365,3500
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,127750,7,7,0,494000,17250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,101000,1,1,0,481000,74500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,565000,60,60,0,480000,7100
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,14,Pay with a Debit/Credit Card or Online with Bank,customer,-5,500,5,5,0,467800,17550
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,464800,2,2,0,466500,230000
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,18500,1,1,0,464800,17500
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,P,HB,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,128000,58,6,0,462000,1600
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,183000,2,2,0,462000,72000
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,38800,2,2,0,460600,18500
+Unknown,Unknown,Chrome Mobile,-5,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card or Online with Bank,customer,-5,1000,7,2,0,460000,17500
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,13,Pay with a Debit/Credit Card or Online with Bank,customer,-5,45500,2,2,0,453500,20750
+NG,Lagos,Chrome Mobile,-5,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card or Online with Bank,customer,-5,20000,1,1,0,452700,18500
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,P,HB,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,3500,1,1,0,447500,3500
+NG,Delta,Chrome Mobile,-5,Huawei,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,17000,10,10,0,440000,1700
+Unknown,Unknown,Edge,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,1000,21,21,0,438750,18500
+Unknown,Unknown,Chrome Mobile,-31,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card or Online with Bank,customer,-5,100000,5,5,0,431500,18500
+NG,Ogun,Chrome Mobile,-31,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,5,Bank Transfer or Bank Deposit,customer,-5,21500,1,1,0,430000,20500
+NG,Ondo,Chrome Mobile,-5,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card or Online with Bank,customer,-5,27760,2,1,0,430000,18500
+NG,Anambra,Chrome Mobile,-5,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card or Online with Bank,customer,-5,39500,2,2,0,429750,18500
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card or Online with Bank,customer,-5,3500,1,1,0,426012,3500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,18000,1,1,0,425250,18500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,1000,4,4,0,422500,79500
+Unknown,Unknown,Chrome Mobile,-13,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,38800,10,10,3800,421400,3500
+NG,Federal Capital Territory,Opera Mobile,-5,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,11,Bank Transfer or Bank Deposit,customer,-5,15400,1,1,0,420000,14500
+NG,Rivers,Mobile Safari,-5,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,13,Bank Transfer or Bank Deposit,customer,-5,420000,20,20,0,406400,19750
+Unknown,Unknown,Firefox,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,34100,1,1,0,402200,16500
+NG,Katsina,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,119000,7,7,0,400000,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,379000,40,40,0,390000,7100
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,80500,4,3,0,390000,13750
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,29050,3,3,0,389900,3400
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,14200,10,10,2200,388000,1200
+NG,Delta,UC Browser,-5,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card or Online with Bank,customer,-5,175500,9,9,0,381500,18500
+Unknown,Unknown,Firefox,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,7,Bank Transfer or Bank Deposit,customer,-5,1000,32,1,0,379000,51500
+NG,Lagos,Chrome Mobile,-5,Infinix,M,FALSE,A,Unknown,order,checkout,completed,Android,7,Bank Transfer or Bank Deposit,customer,-5,23000,1,1,0,367500,21500
+NG,Cross River,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,30500,11,11,0,357300,2500
+NG,Kwara,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,207500,10,10,7500,355000,20000
+NG,Delta,Chrome Mobile,-5,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,210000,10,10,0,353000,20000
+NG,Imo,Chrome Mobile,-5,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Bank Transfer or Bank Deposit,customer,-5,22760,1,1,0,341250,21500
+NG,Delta,Chrome,-5,Unknown,D,TRUE,P,HB,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,45000,2,2,0,339000,21500
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,3900,1,1,0,336000,3000
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,42500,2,2,0,332500,19750
+NG,Enugu,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,17000,10,10,0,331400,1700
+Unknown,Unknown,Chrome,-31,Generic_Android_Tablet,T,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,18250,1,1,0,325400,17250
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,13,Pay with a Debit/Credit Card or Online with Bank,customer,-5,29108,3,1,0,325000,2400
+Unknown,Unknown,Chrome Mobile,-31,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card or Online with Bank,customer,-5,500,3,3,0,315600,20750
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,21500,1,1,0,300000,20500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,cancelled,Android,9,Bank Transfer or Bank Deposit,customer,-5,233000,1,1,0,296650,79500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,7300,2,2,0,281400,2750
+Unknown,Unknown,Chrome Mobile,-13,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,14795,1,1,0,276500,21500
+NG,Anambra,Chrome Mobile,-5,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,11,Bank Transfer or Bank Deposit,customer,-5,227500,10,10,0,273300,21500
+NG,Enugu,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,26200,3,1,0,270000,10000
+Unknown,Unknown,Google,-13,Apple,M,TRUE,P,SB,order,checkout,completed,iOS,14,Bank Transfer or Bank Deposit,customer,-5,1000,30,30,0,267800,19000
+Unknown,Unknown,Chrome Mobile,-13,Huawei,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card or Online with Bank,customer,-5,21500,1,1,0,265800,20000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,41000,1,1,0,264000,35000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,45000,2,2,0,259000,21500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,14120,1,1,0,254600,20500
+NG,Federal Capital Territory,Chrome Mobile,-5,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,3900,1,1,900,251800,3000
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,16000,1,1,0,247900,14500
+NG,Kogi,Chrome Mobile WebView,-5,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,23200,2,2,0,246600,9700
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,2000,2,2,0,239500,500
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,1155000,1,1,0,235150,1100000
+Unknown,Unknown,Chrome,-13,Generic_Android_Tablet,T,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,1340790,74,30,0,234300,1950
+Unknown,Unknown,Unknown,-31,Unknown,Unknown,FALSE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,82800,54,4,0,43200,1850
+Unknown,Unknown,Unknown,-31,Unknown,Unknown,FALSE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,38000,25,5,0,43200,900
+Unknown,Unknown,Chrome,-31,Unknown,D,FALSE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,25500,1,1,0,43100,22000
+Unknown,Unknown,Chrome,-31,Unknown,D,FALSE,A,Unknown,order,checkout,completed,Linux,Unknown,Pay with a Debit/Credit Card,Unknown,-5,22700,1,1,0,43100,20500
+Unknown,Unknown,Chrome Mobile,-31,Infinix,M,FALSE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card or Online with Bank,customer,-5,11300,3,3,0,43000,2500
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,FALSE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,500,1,1,0,43000,57000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,FALSE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card,Unknown,-5,24000,1,1,0,43000,23000
+NG,Ogun,Unknown,-5,Unknown,Unknown,FALSE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,1795000,1000,1000,0,43000,1620
+NG,Federal Capital Territory,Chrome Mobile,-5,Nokia,M,FALSE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,6820,2,2,1800,42800,18500
+NG,Federal Capital Territory,Chrome Mobile,-5,Nokia,M,FALSE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,83860,4,4,0,42500,20500
+Unknown,Unknown,Unknown,-31,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,79500,3,1,0,42500,18500
+Unknown,Unknown,Unknown,-31,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,3000,1,1,0,42400,3000
+Unknown,Unknown,Unknown,-31,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,51500,1,1,0,42350,51500
+Unknown,Unknown,Unknown,-31,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,79500,3,1,0,42300,18500
+Unknown,Unknown,Unknown,-31,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,subscriber,-5,81200,4,4,0,42250,19000
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Chrome OS,13729,Bank Transfer or Bank Deposit,customer,-5,49500,3,3,0,42150,15000
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Chrome OS,13729,Bank Transfer or Bank Deposit,customer,-5,93110,6,3,0,42000,14500
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Chrome OS,13729,Bank Transfer or Bank Deposit,customer,-5,108000,6,3,0,42000,15500
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Chrome OS,13729,Bank Transfer or Bank Deposit,customer,-5,500,5,5,0,42000,19500
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,2500,1,1,0,41800,2500
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,3000,1,1,0,41500,3000
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,1000,6,1,0,41500,42000
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,122000,110,30,0,41400,150
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,61800,1,1,0,41250,47000
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,54900,2,1,0,41000,1200
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,42800,1,1,0,41000,40000
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,221500,1,1,0,41000,200000
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,105250,5,5,0,41000,16750
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,refunded,Windows,8,Bank Transfer or Bank Deposit,customer,-5,51500,50,50,0,40500,600
+NG,Oyo,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,subscriber,-5,12950,1,1,0,40500,10750
+NG,Oyo,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,subscriber,-5,10800,1,1,0,40500,11000
+NG,Oyo,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,subscriber,-5,16900,11,1,0,40500,7500
+NG,Oyo,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,subscriber,-5,125800,12,2,0,40300,4750
+NG,Oyo,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,subscriber,-5,49800,5,5,0,40150,7900
+Unknown,Unknown,Chrome Mobile,-31,Infinix,M,TRUE,A,Unknown,order,checkout,cancelled,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,13000,1,1,0,40100,12000
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,cancelled,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,23500,1,1,0,40000,20500
+Unknown,Unknown,Chrome Mobile,-31,Nokia,M,TRUE,A,Unknown,order,checkout,cancelled,Android,10,Bank Transfer or Bank Deposit,customer,-5,48500,4,1,0,40000,11500
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,cancelled,Android,11,Bank Transfer or Bank Deposit,Unknown,-5,2636000,12,12,0,39900,203000
+Unknown,Unknown,Mobile Safari,-31,Apple,M,TRUE,A,Unknown,order,checkout,cancelled,iOS,13,Bank Transfer or Bank Deposit,Unknown,-5,32400,10,10,0,39800,1800
+Unknown,Unknown,Mobile Safari,-31,Apple,M,TRUE,A,Unknown,order,checkout,cancelled,iOS,14,Bank Transfer or Bank Deposit,Unknown,-5,37100,12,12,0,39750,2500
+Unknown,Unknown,Mobile Safari,-31,Apple,M,TRUE,A,Unknown,order,checkout,cancelled,iOS,14,Bank Transfer or Bank Deposit,Unknown,-5,49900,150,150,0,39750,190
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,10600,1,1,0,39700,10000
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,10600,1,1,0,39700,10000
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,59500,30,10,0,39600,450
+Unknown,Unknown,Chrome Mobile,-31,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,15250,1,1,0,39500,14000
+Unknown,Unknown,Chrome Mobile,-31,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,"subscriber, customer",-5,17500,1,1,0,39500,16000
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,11,Bank Transfer or Bank Deposit,Unknown,-5,16700,1,1,0,39500,15000
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,11,Bank Transfer or Bank Deposit,Unknown,-5,22750,2,1,0,39400,5500
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,11,Bank Transfer or Bank Deposit,Unknown,-5,38400,6,1,8000,39200,22500
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,11,Bank Transfer or Bank Deposit,Unknown,-5,500,5,5,0,39000,18500
+Unknown,Unknown,Chrome Mobile,-31,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,4000,1,1,0,39000,3000
+Unknown,Unknown,Chrome Mobile,-31,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,202000,10,10,0,39000,19000
+Unknown,Unknown,Chrome Mobile,-31,vivo,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,2500,1,1,0,38900,2500
+Unknown,Unknown,Chrome Mobile,-31,vivo,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,22000,30,30,0,38900,640
+Unknown,Unknown,Chrome Mobile,-31,vivo,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,113000,3000,3000,0,38800,32
+Unknown,Unknown,Chrome Mobile,-31,Samsung,M,TRUE,A,Unknown,order,checkout,processing,Android,10,Bank Transfer or Bank Deposit,customer,-5,8000,2,2,0,38800,3000
+NG,Ogun,Chrome Mobile,-31,Generic_Android,M,TRUE,A,Unknown,order,checkout,refunded,Android,5,Bank Transfer or Bank Deposit,customer,-5,43000,2,2,0,38700,20500
+NG,Imo,Opera Mobile,-31,Gionee,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Bank Transfer or Bank Deposit,customer,-5,103000,2,2,0,38700,51500
+NG,Kwara,Chrome Mobile,-31,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,15250,1,1,0,38700,14500
+NG,Kwara,Chrome Mobile,-31,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,276500,14,14,10500,38600,19000
+Unknown,Unknown,Chrome,-31,Generic_Android_Tablet,T,TRUE,A,Unknown,order,checkout,cancelled,Android,9,Bank Transfer or Bank Deposit,customer,-5,18750,2,1,0,38500,13750
+Unknown,Unknown,Chrome Mobile,-31,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay Online With Bank by Paystack,Unknown,-5,4250,1,1,0,38500,2750
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,Unknown,-5,3500,1,1,0,38500,3500
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,customer,-5,14400,1,1,0,38500,13500
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,customer,-5,15400,1,1,0,38500,14500
+Unknown,Unknown,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,7,Pay with a Debit/Credit Card,customer,-5,21150,1,1,0,38500,20250
+Unknown,Unknown,Firefox,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Pay with a Debit/Credit Card,customer,-5,57000,3,1,0,38500,12000
+Unknown,Unknown,Firefox,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Pay with a Debit/Credit Card,customer,-5,8000,2,2,0,38400,3000
+NG,Kwara,Chrome,-31,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,7,Pay with a Debit/Credit Card,customer,-5,14500,1,1,0,38400,13750
+Unknown,Unknown,Chrome Mobile,-31,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,Unknown,-5,14250,1,1,0,38400,11750
+Unknown,Unknown,Chrome Mobile,-31,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,customer,-5,20250,1,1,0,38250,19000
+Unknown,Unknown,Chrome Mobile,-31,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,customer,-5,68000,4,4,0,38250,15500
+Unknown,Unknown,Chrome Mobile,-31,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,customer,-5,71360,4,4,0,38200,18000
+Unknown,Unknown,Chrome Mobile,-31,Tecno,M,TRUE,A,Unknown,order,checkout,processing,Android,10,Pay with a Debit/Credit Card,Unknown,-5,14750,1,1,0,38050,12750
+NG,Kano,Chrome Mobile,-31,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,customer,-5,31200,2,2,0,38000,15000
+Unknown,Unknown,Chrome Mobile iOS,-31,Apple,T,TRUE,A,Unknown,order,checkout,completed,iOS,14,Pay with a Debit/Credit Card,customer,-5,2400,1,1,0,38000,2400
+Unknown,Unknown,Safari,-31,Apple,U,TRUE,A,Unknown,order,checkout,completed,Mac OS X,10,Pay with a Debit/Credit Card,Unknown,-5,44000,2,2,0,38000,21000
+Unknown,Unknown,Safari,-31,Apple,U,TRUE,A,Unknown,order,checkout,completed,Mac OS X,10,Pay with a Debit/Credit Card,Unknown,-5,180000,8,8,0,37900,21500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Unknown,Unknown,-5,0,4,4,0,37700,18500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Unknown,customer,-5,0,1,1,0,37550,2400
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,15000,1,1,0,37500,13500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,16800,5,5,0,37500,1300
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,5000,1,1,0,37500,5000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,4000,1,1,0,37500,12000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,17500,1,1,0,37500,16500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,45700,3,1,0,37320,14000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,33900,2,2,0,37250,16250
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,51300,2,2,0,37100,22500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,26000,2,2,2000,37000,12000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,9000,2,2,0,37000,3000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,196250,10,5,0,36900,15500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,36150,15,5,0,36900,3750
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,151800,6,6,0,36800,24000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,177500,10,10,20000,36800,15750
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,204600,40,10,0,36500,6500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,622465,40,40,0,36500,15750
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,1098000,600,600,0,36480,1550
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,87500,1500,1500,0,36300,37
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,18200,1,1,0,36250,16000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,17750,1,1,0,36150,16500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,20500,1,1,0,35900,19000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,20500,1,1,0,35750,19250
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,381500,1,1,0,35750,360000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,331400,14,1,20400,35500,35000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,43000,2,2,0,35500,20250
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,31400,2,2,0,35500,14500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,46000,4,2,0,35500,17500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,215550,9,9,0,35500,22750
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,234000,15,15,0,35500,13500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,390000,24,24,0,35400,15250
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,480000,30,30,0,35400,14500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,3442000,40,40,0,35100,80000
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,on-hold,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,105000,5,1,0,35000,18500
+NG,Osun,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,355000,20,20,0,35000,16750
+NG,Lagos,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,17250,1,1,0,35000,15750
+NG,Imo,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,38500,2,2,0,35000,17750
+NG,Osun,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,429750,21,2,0,35000,12000
+NG,Osun,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,341250,21,21,0,35000,15250
+NG,Anambra,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,1381500,150,150,0,34750,9100
+NG,Lagos,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,processing,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,17250,1,1,0,34550,15750
+Unknown,Unknown,Samsung Internet,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Linux,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,4400,1,1,0,34500,21000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,19250,1,1,0,34500,18250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,19250,1,1,0,34500,18250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,265800,1,1,0,34500,245000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,4500,1,1,0,34500,3000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,65400,4,2,0,34100,14000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,500,3,3,0,34000,17250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,10,Bank Transfer or Bank Deposit,customer,-5,32900,5,5,0,34000,4900
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,7,Bank Transfer or Bank Deposit,Unknown,-5,37320,10,10,0,34000,3192
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,7,Bank Transfer or Bank Deposit,customer,-5,48000,3,3,0,34000,14000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,17500,1,1,0,34000,16500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,15200,1,1,0,33900,11500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,114000,3,1,0,33550,36000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,227000,100,100,0,33500,1550
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,8,Bank Transfer or Bank Deposit,customer,-5,38700,2,2,0,33500,18250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Linux,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,1000,20,20,24000,33500,18250
+Unknown,Unknown,Samsung Internet,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Linux,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,69000,1,1,0,33350,63000
+Unknown,Unknown,Chrome,-13,Apple,D,TRUE,A,Unknown,order,checkout,completed,Mac OS X,10,Bank Transfer or Bank Deposit,Unknown,-5,1000,91,6,0,33250,7250
+Unknown,Unknown,Chrome,-13,Apple,D,TRUE,A,Unknown,order,checkout,completed,Mac OS X,10,Bank Transfer or Bank Deposit,Unknown,-5,12000,10,10,0,33180,1200
+Unknown,Unknown,Chrome,-13,Apple,D,TRUE,A,Unknown,order,checkout,completed,Mac OS X,10,Bank Transfer or Bank Deposit,customer,-5,440000,20,20,0,33000,20500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,3500,1,1,0,33000,3500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,6900,1,1,0,32900,4200
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,14500,1,1,0,32750,13500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,17250,1,1,0,32500,15750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,18500,1,1,0,32500,17500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,20800,1,1,0,32500,18000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,19250,1,1,0,32500,18250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,19000,1,1,0,32400,18500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,110300,1,1,0,32350,100000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,500,1,1,0,32300,37500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,1000,1,1,0,32200,500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,208000,1,1,0,32000,200000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,7940,1,1,0,32000,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,15500,1,1,0,32000,14000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,38500,1,1,0,32000,37500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,3950,1,1,0,32000,2750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,25500,2,1,0,31800,9000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,32750,2,1,0,31800,14000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,35000,2,1,0,31500,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,29750,2,1,0,31500,15750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,267800,2,1,0,31500,42000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,246600,2,1,0,31500,200000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,183900,3,1,0,31500,9500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,94000,4,1,0,31450,15000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,119000,7,1,0,31400,12000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,421400,8,1,0,31200,185000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,45150,18,1,0,31000,10500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,1000,21,1,0,31000,200000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,6000,2,2,0,31000,1500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,31500,2,2,0,31000,14000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,35000,2,2,0,31000,16500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,181000,2,2,0,31000,87000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,63900,4,2,0,30800,14000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,57000,3,3,0,30700,18500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,1513990,1617,3,0,30700,9850
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,81000,4,4,0,30500,12750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,110000,4,4,0,30500,25000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,131000,4,4,0,30500,30000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,77500,5,5,0,30500,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,95000,5,5,0,30500,18500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,66000,10,5,0,30500,5300
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,78400,25,5,0,30400,3400
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,111000,6,6,0,30340,17000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,139500,6,6,0,30000,22750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,126000,7,7,0,30000,17500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,9600,10,10,0,30000,650
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,452700,62,12,0,29750,6500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,500,24,24,17800,29500,1500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,438750,50,25,0,29360,6700
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,776000,40,40,0,29250,18500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,325000,50,50,0,29108,5750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,2110000,1000,1000,0,29100,1550
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,500,2000,2000,0,29050,32
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,2500,1,1,0,29000,2500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,3500,1,1,0,29000,3500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,19000,1,1,0,29000,18000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,33000,1,1,0,28900,28000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,199300,1,1,0,28800,185000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,73000,1,1,0,28800,36000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,38250,1,1,1500,28500,36750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,63500,1,1,0,28400,43700
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,35750,2,1,0,28200,15000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,1000,11,1,0,28200,13500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,134750,26,1,0,28000,1200
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,899200,43,1,0,27800,11500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,30000,2,2,0,27800,14000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,34500,2,2,0,27800,15750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,40500,2,2,0,27760,19000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,107000,6,2,0,27500,19000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,239500,13,3,0,27500,3000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,2320850,1228,3,0,27300,11150
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,1076050,215,5,0,27200,2650
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,130250,8,8,0,27150,16000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,172000,8,8,0,27000,20500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,172000,10,10,0,27000,16000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,10000,10,10,0,27000,19750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,270000,10,10,0,27000,26500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,108400,13,13,0,27000,7200
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,137800,15,15,0,26970,8200
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,1611000,17,17,0,26800,79500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,430000,20,20,0,26650,20500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,82600,24,24,0,26600,2900
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,194300,24,24,0,26500,7200
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,123000,74,24,0,26500,2900
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,820000,40,40,0,26250,19500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,462000,100,100,0,26200,4270
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,1016000,200,100,0,26100,4470
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,540000,300,300,0,26000,1620
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,1725000,1000,1000,0,26000,1550
+Unknown,Unknown,Edge,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,18500,1,1,0,26000,17000
+Unknown,Unknown,Edge,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,58600,1,1,0,26000,50000
+Unknown,Unknown,Edge,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,15000,1,1,0,26000,13500
+Unknown,Unknown,Edge,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,13500,1,1,0,26000,12000
+Unknown,Unknown,Edge,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,4500,1,1,0,25970,3000
+Unknown,Unknown,Edge,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,7400,1,1,2500,25800,4900
+Unknown,Unknown,Opera,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,71300,113,13,0,25700,850
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,7,Bank Transfer or Bank Deposit,Unknown,-5,1200,1,1,0,25650,1200
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,7,Bank Transfer or Bank Deposit,Unknown,-5,45500,2,2,0,25500,20250
+Unknown,Unknown,Firefox,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,7,Bank Transfer or Bank Deposit,customer,-5,14750,5,5,0,25500,2350
+Unknown,Unknown,Opera,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,7,Bank Transfer or Bank Deposit,Unknown,-5,16550,2,1,0,25500,12000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,2100,1,1,0,25500,5200
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,17750,1,1,0,25250,16500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,17600,1,1,0,25250,17000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,21500,1,1,0,25250,20000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,40300,1,1,0,25000,36000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,618000,1,1,0,25000,579000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,89800,1,1,0,25000,84500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,37250,1,1,0,24950,36000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,13000,1,1,0,24900,12000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,15250,1,1,0,24750,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,17000,1,1,0,24700,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,15750,1,1,0,24600,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,16000,1,1,0,24500,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,16000,1,1,0,24500,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,28000,2,1,0,24500,14000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,33250,2,1,0,24500,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,30000,2,1,0,24250,15000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,51300,3,1,0,24250,14000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,43200,3,1,0,24250,16500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,42500,3,1,0,24130,18250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,98500,4,1,0,24000,36000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,27150,5,1,0,23900,4350
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,100800,6,1,0,23900,18000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,6900,2,2,0,23700,1500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,12100,2,2,0,23700,4500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,12800,2,2,0,23500,5050
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,30700,2,2,0,23300,14250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,37000,2,2,0,23250,17500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,50000,2,2,0,23200,24000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,27200,2,2,0,23050,11500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,27000,2,2,0,23000,12000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,7500,2,2,0,23000,3000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,114300,2,2,0,23000,50000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,6280,2,2,0,22760,1590
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,94250,7,2,0,22750,14000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,9200,3,3,0,22750,1500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,51000,3,3,0,22700,15750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,72900,3,3,13000,22650,23000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,114000,3,3,0,22500,18500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,96000,6,3,0,22400,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,82000,4,4,0,22250,19250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,19150,5,5,0,22000,3270
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,22500,5,5,0,22000,3000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,8200,5,5,0,22000,1200
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,111000,6,6,0,22000,17000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,129300,6,6,0,22000,20250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,583650,6,6,0,22000,3192
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,7920000,121,9,0,22000,9850
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,195000,10,10,0,21800,18500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,195000,10,10,0,21750,18500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,15100,10,10,0,21750,1200
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,944500,70,10,0,21750,11450
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,389900,34,34,0,21700,9400
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,460600,65,65,0,21700,5040
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,210000,210,210,0,21500,500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,1110000,600,600,0,21500,1550
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,1140000,600,600,0,21500,1550
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,14250,1,1,0,21500,13500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,17250,1,1,750,21500,15500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,17500,1,1,0,21500,16000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,18750,1,1,0,21500,17750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,20000,1,1,0,21200,19000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,28800,1,1,0,21200,24000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,13300,1,1,0,21150,12000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,30500,2,1,0,21000,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,76250,3,1,0,21000,35250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,123750,6,1,0,21000,17750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,181500,8,1,0,21000,19000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,281400,15,1,24400,21000,9500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,65100,51,1,0,21000,22500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,34500,2,2,0,21000,15750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,35000,2,2,0,20800,16500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,39700,2,2,0,20750,18750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,41000,2,2,0,20550,19000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,61500,3,3,0,20500,19500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,90000,4,4,0,20500,21500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,18950,5,5,0,20500,3350
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,41800,6,6,0,20500,6500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,165000,10,10,0,20500,15000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,27800,100,100,0,20500,250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,1905080,939,939,0,20450,1620
+Unknown,Unknown,Firefox,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,XP,Bank Transfer or Bank Deposit,Unknown,-5,23900,1,1,0,20300,23000
+Unknown,Unknown,Samsung Internet,-13,Unknown,D,TRUE,A,Unknown,order,checkout,processing,Linux,Unknown,Bank Transfer or Bank Deposit,Unknown,-5,4100,1,1,0,20300,3750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,processing,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,63150,3,3,0,20250,20750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,refunded,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,24900,60,20,0,20250,260
+Unknown,Unknown,Edge,-13,Unknown,D,TRUE,A,Unknown,order,checkout,refunded,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,500,5,1,0,20200,18500
+Unknown,Unknown,Firefox,-13,Unknown,D,TRUE,A,Unknown,order,checkout,refunded,Windows,10,Bank Transfer or Bank Deposit,Unknown,-5,46250,3,1,0,20200,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,refunded,Windows,8,Bank Transfer or Bank Deposit,Unknown,-5,26600,1,1,0,20150,17000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,refunded,Windows,8,Bank Transfer or Bank Deposit,customer,-5,82800,11,11,0,20100,7300
+NG,Ogun,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,7000,2,2,0,20000,3000
+NG,Ogun,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Bank Transfer or Bank Deposit,customer,-5,460000,20,20,0,20000,22000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,cancelled,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,39750,2,1,0,20000,12500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,cancelled,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,34550,2,1,0,20000,14500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,cancelled,Android,10,Bank Transfer or Bank Deposit,customer,-5,32000,2,1,0,20000,16000
+Unknown,Unknown,Chrome Mobile,-13,Itel,M,TRUE,A,Unknown,order,checkout,cancelled,Android,10,Bank Transfer or Bank Deposit,customer,-5,68500,3,1,0,20000,21000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,cancelled,Android,10,Bank Transfer or Bank Deposit,customer,-5,21750,1,1,0,20000,20250
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,cancelled,Android,11,Bank Transfer or Bank Deposit,Unknown,-5,15000,1,1,0,19800,14500
+Unknown,Unknown,Chrome Mobile WebView,-13,Gionee,M,TRUE,A,Unknown,order,checkout,cancelled,Android,5,Bank Transfer or Bank Deposit,Unknown,-5,669000,17500,1500,0,19750,32
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,cancelled,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,15750,1,1,0,19750,14750
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,cancelled,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,79500,1,1,0,19750,75000
+Unknown,Unknown,Opera Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,cancelled,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,38200,1,1,0,19750,18500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,cancelled,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,30500,2,2,0,19700,14000
+Unknown,Unknown,Chrome Mobile,-13,XiaoMi,M,TRUE,A,Unknown,order,checkout,cancelled,Android,9,Bank Transfer or Bank Deposit,customer,-5,30500,2,1,0,19500,11750
+Unknown,Unknown,Opera Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,cancelled,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,34000,2,1,0,19500,13500
+Unknown,Unknown,Opera Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,cancelled,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,67500,4,1,0,19500,14750
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,cancelled,iOS,13,Bank Transfer or Bank Deposit,Unknown,-5,21500,1,1,0,19500,20000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,3500,1,1,0,19500,3500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,15900,1,1,0,19400,15000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,18900,1,1,0,19250,15500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,23050,2,1,0,19250,18250
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,500,2,1,0,19250,32500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,37550,2,1,0,19250,17500
+Unknown,Unknown,Chrome Mobile,-13,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,26500,2,2,0,19250,11750
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,1000,1,1,0,19250,80000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,13500,1,1,0,19250,12000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,51000,3,3,0,19250,15750
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,87300,50,50,0,19200,500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,97300,50,50,0,19200,700
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,172300,100,100,0,19150,500
+Unknown,Unknown,Chrome Mobile,-13,XiaoMi,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,34500,2,2,0,19000,15750
+Unknown,Unknown,Chrome Mobile,-13,Huawei,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,1098340,1,1,0,19000,1300000
+Unknown,Unknown,Chrome Mobile,-13,Huawei,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,12000,10,10,0,19000,1200
+Unknown,Unknown,Chrome Mobile,-13,Huawei,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,2000000,100,100,0,19000,19000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,15000,1,1,0,19000,14000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,29500,2,1,0,19000,13500
+Unknown,Unknown,Chrome Mobile,-13,Itel,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,54250,3,1,0,18950,17500
+Unknown,Unknown,Chrome Mobile,-13,Itel,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,47500,2,2,0,18900,22500
+Unknown,Unknown,Chrome Mobile,-13,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,264000,3,3,0,18900,75000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,16500,1,1,0,18900,15000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,20450,1,1,0,18800,20250
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,4000,1,1,0,18750,3000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,24130,7,1,0,18750,14500
+Unknown,Unknown,Facebook,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,14200,2,2,0,18700,5000
+Unknown,Unknown,Opera Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,31000,2,1,0,18550,15000
+Unknown,Unknown,Samsung Internet,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,41000,1,1,0,18500,35000
+Unknown,Unknown,Samsung Internet,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,11,Bank Transfer or Bank Deposit,Unknown,-5,25000,1,1,0,18500,24000
+Unknown,Unknown,Samsung Internet,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,11,Bank Transfer or Bank Deposit,Unknown,-5,80500,1,1,1000,18500,39750
+Unknown,Unknown,Samsung Internet,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,11,Bank Transfer or Bank Deposit,Unknown,-5,127500,6,6,0,18500,20250
+Unknown,Unknown,Chrome Mobile,-13,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,5,Bank Transfer or Bank Deposit,customer,-5,17500,1,1,0,18500,16500
+Unknown,Unknown,Chrome Mobile,-13,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,6,Bank Transfer or Bank Deposit,Unknown,-5,1200,1,1,0,18500,1200
+Unknown,Unknown,Chrome Mobile,-13,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,6,Bank Transfer or Bank Deposit,Unknown,-5,2400,1,1,0,18250,2400
+Unknown,Unknown,Chrome Mobile,-13,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,6,Bank Transfer or Bank Deposit,Unknown,-5,28800,2,2,0,18250,13500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Bank Transfer or Bank Deposit,Unknown,-5,55100,3,1,0,18250,3500
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Bank Transfer or Bank Deposit,customer,-5,23700,1,1,0,18250,18700
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Bank Transfer or Bank Deposit,customer,-5,14580,1,1,0,18250,18500
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Bank Transfer or Bank Deposit,customer,-5,68000,3,1,3000,18250,16500
+Unknown,Unknown,Chrome Mobile WebView,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Bank Transfer or Bank Deposit,customer,-5,60000,4,4,0,18200,14000
+Unknown,Unknown,Chrome Mobile,-13,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,2000,1,1,0,18000,2000
+Unknown,Unknown,Chrome Mobile,-13,HTC,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,213500,9,1,0,18000,36000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,15000,1,1,0,18000,13500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,24500,3,1,0,18000,14000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,27000,2,2,0,17850,12000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,41000,2,2,0,17750,19000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,9000,2,2,0,17750,3000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,42300,1000,1000,0,17750,32
+Unknown,Unknown,Chrome Mobile,-13,Itel,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,19000,1,1,0,17750,15000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,12750,1,1,0,17750,11750
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,15250,1,1,0,17700,14000
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,53700,1,1,0,17600,51500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,15000,1,1,0,17500,14500
+Unknown,Unknown,Chrome Mobile,-13,XiaoMi,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,13350,1,1,0,17500,12250
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,10500,1,1,0,17500,10500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,16750,1,1,0,17500,16000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,15750,1,1,0,17500,14500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,25500,2,2,0,17500,11750
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,31500,2,2,0,17500,14250
+Unknown,Unknown,Chrome Mobile,-13,Itel,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,29100,2,1,0,17500,14000
+Unknown,Unknown,Chrome Mobile,-13,Itel,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,32000,2,2,0,17400,14500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,58000,2,1,0,17250,19000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,31500,2,2,0,17250,14500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,35500,2,2,0,17250,16500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,195000,10,10,0,17250,18500
+Unknown,Unknown,Chrome Mobile,-13,Huawei,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,41500,2,2,0,17250,19500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,17500,1,1,0,17250,16000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,1300,1,1,0,17250,3000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,15500,1,1,0,17250,14000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,94000,4,4,0,17200,22500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,17200,1,1,0,17050,16000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,20300,1,1,0,17000,19000
+Unknown,Unknown,Instagram,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,customer,-5,8000,2,2,0,17000,3000
+Unknown,Unknown,Opera Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,15350,1,1,1100,17000,14250
+Unknown,Unknown,Opera Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,16950,1,1,0,17000,15750
+Unknown,Unknown,Samsung Internet,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Bank Transfer or Bank Deposit,Unknown,-5,85000,4,4,0,17000,20250
+Unknown,Unknown,Chrome Mobile iOS,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,12,Bank Transfer or Bank Deposit,Unknown,-5,26000,2,2,0,17000,12000
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,13,Bank Transfer or Bank Deposit,Unknown,-5,68000,1,1,0,17000,68000
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,13,Bank Transfer or Bank Deposit,Unknown,-5,500,4,4,0,17000,14000
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,13,Bank Transfer or Bank Deposit,customer,-5,43000,2,2,0,17000,20500
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,14,Bank Transfer or Bank Deposit,Unknown,-5,51000,3,1,0,16950,15500
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,14,Bank Transfer or Bank Deposit,customer,-5,153900,2,1,0,16900,67600
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,14,Bank Transfer or Bank Deposit,customer,-5,235150,15,1,0,16830,9000
+Unknown,Unknown,Chrome Mobile,-13,XiaoMi,M,TRUE,A,Unknown,order,checkout,processing,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,357300,4,4,0,16800,84500
+Unknown,Unknown,Chrome Mobile,-13,Generic_Android,M,TRUE,A,Unknown,order,checkout,processing,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,39700,2,2,0,16800,18750
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,processing,iOS,14,Bank Transfer or Bank Deposit,Unknown,-5,147550,807,2,0,16750,11150
+Unknown,Unknown,Chrome Mobile,-13,Nokia,M,TRUE,A,Unknown,order,checkout,refunded,Android,10,Bank Transfer or Bank Deposit,Unknown,-5,18250,2,1,0,16750,12500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,refunded,Android,8,Bank Transfer or Bank Deposit,Unknown,-5,18250,1,1,0,16700,15750
+NG,Oyo,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Bank Transfer or Bank Deposit,customer,-5,70500,1,1,0,16700,65000
+NG,Nasarawa,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Bank Transfer or Bank Deposit,customer,-5,908600,44,44,39600,16650,19750
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Pay Online With Bank by Paystack,Unknown,-5,22000,10,10,0,16500,1500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay Online With Bank by Paystack,customer,-5,19400,1,1,0,16500,18500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay Online With Bank by Paystack,customer,-5,36900,1,1,0,16500,36000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay Online With Bank by Paystack,customer,-5,32350,1,1,0,16500,24450
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay Online With Bank by Paystack,customer,-5,22400,2,2,0,16500,8200
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Pay with a Debit/Credit Card,Unknown,-5,2400,1,1,0,16500,2400
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Pay with a Debit/Credit Card,Unknown,-5,23000,1,1,0,16500,20500
+Unknown,Unknown,Unknown,-13,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Pay with a Debit/Credit Card,Unknown,-5,19500,1,1,0,16300,18250
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,Unknown,-5,2400,1,1,0,16250,2400
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,Unknown,-5,2500,1,1,0,16250,2500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,Unknown,-5,200,1,1,0,16250,10500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,Unknown,-5,12750,1,1,0,16200,11750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,Unknown,-5,18000,1,1,0,16200,16500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,Unknown,-5,1000,1,1,0,16200,95000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,Unknown,-5,38500,1,1,0,16000,37500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,Unknown,-5,96000,6,6,0,16000,14500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,customer,-5,1000,7,1,0,16000,13500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,customer,-5,500,2001,1,0,16000,2500
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,customer,-5,26650,3,3,0,16000,4750
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,customer,-5,88400,10,10,12800,16000,8200
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,customer,-5,221500,400,400,0,16000,500
+Unknown,Unknown,Firefox,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Pay with a Debit/Credit Card,customer,-5,1000,6,6,0,15900,19000
+Unknown,Unknown,Chrome,-13,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,8,Pay with a Debit/Credit Card,Unknown,-5,89300,1,1,0,15750,83000
+Unknown,Unknown,Opera,-13,Unknown,D,TRUE,A,Unknown,order,checkout,processing,Linux,Unknown,Pay with a Debit/Credit Card,Unknown,-5,12250,1,1,0,15750,11500
+Unknown,Unknown,Chrome Mobile,-13,Huawei,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,Unknown,-5,3500,1,1,0,15750,3500
+Unknown,Unknown,Chrome Mobile,-13,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,Unknown,-5,21000,1,1,0,15750,19500
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,Unknown,-5,17000,1,1,0,15750,15000
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,Unknown,-5,15000,1,1,0,15700,14000
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,Unknown,-5,500,6,6,0,15600,14750
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,Unknown,-5,500,15,15,0,15500,3900
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,customer,-5,15000,1,1,0,15500,14000
+Unknown,Unknown,Chrome Mobile,-13,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,customer,-5,21000,1,1,0,15500,19500
+Unknown,Unknown,Chrome Mobile,-13,Nokia,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,customer,-5,22000,1,1,0,15500,20500
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,customer,-5,500,6,1,0,15500,40000
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,customer,-5,52500,3,3,0,15500,16000
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,customer,-5,36800,10,10,0,15500,2650
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,10,Pay with a Debit/Credit Card,customer,-5,6000,5,5,0,15400,1200
+Unknown,Unknown,Chrome Mobile,-13,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,6,Pay with a Debit/Credit Card,Unknown,-5,4300,1,1,0,15400,3000
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,6,Pay with a Debit/Credit Card,customer,-5,140000,7,7,0,15350,19000
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,6,Pay with a Debit/Credit Card,customer,-5,144000,8,8,0,15250,17000
+Unknown,Unknown,UC Browser,-13,Generic_Android,M,TRUE,A,Unknown,order,checkout,completed,Android,6,Pay with a Debit/Credit Card,Unknown,-5,15750,1,1,0,15250,14750
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Pay with a Debit/Credit Card,customer,-5,14250,1,1,0,15250,12250
+Unknown,Unknown,Chrome Mobile,-13,Itel,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card,Unknown,-5,29250,2,1,0,15250,12500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card,Unknown,-5,11500,1,1,0,15200,8000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card,Unknown,-5,13000,1,1,0,15150,11500
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card,Unknown,-5,70000,5,5,0,15100,11500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card,customer,-5,64400,4,4,0,15000,15000
+Unknown,Unknown,Opera Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Pay with a Debit/Credit Card,Unknown,-5,24500,1,1,0,15000,23500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,Unknown,-5,19200,1,1,0,15000,17000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,Unknown,-5,500,3,3,0,15000,18000
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,Unknown,-5,12500,10,10,0,15000,650
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,Unknown,-5,15500,10,10,0,15000,1200
+Unknown,Unknown,Chrome Mobile,-13,Itel,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,Unknown,-5,15500,1,1,0,15000,14500
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,Unknown,-5,20300,1,1,0,15000,18000
+Unknown,Unknown,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,Unknown,-5,16000,10,10,0,15000,1250
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,customer,-5,15700,1,1,0,15000,14500
+Unknown,Unknown,Chrome Mobile,-13,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,customer,-5,18800,4,4,0,15000,4200
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,customer,-5,17050,1,1,0,15000,15750
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,customer,-5,38600,2,2,0,14900,18000
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,customer,-5,43100,2,2,0,14900,20250
+Unknown,Unknown,Chrome Mobile,-13,Tecno,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,customer,-5,52600,2,2,0,14900,25000
+Unknown,Unknown,Samsung Internet,-13,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,9,Pay with a Debit/Credit Card,Unknown,-5,13000,1,1,0,14800,11500
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,13,Pay with a Debit/Credit Card,Unknown,-5,20500,1,1,0,14795,19000
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,14,Pay with a Debit/Credit Card,Unknown,-5,4500,2,1,0,14750,2000
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,completed,iOS,14,Pay with a Debit/Credit Card,Unknown,-5,8000,2,2,0,14750,3000
+Unknown,Unknown,Mobile Safari,-13,Apple,M,TRUE,A,Unknown,order,checkout,processing,iOS,14,Pay with a Debit/Credit Card,Unknown,-5,123500,1,1,0,14750,94000
+NG,Kogi,Chrome Mobile,-13,Samsung,M,TRUE,A,Unknown,order,checkout,processing,Android,10,Pay with a Debit/Credit Card,customer,-5,62250,3,3,0,14750,19750
+Unknown,Unknown,Safari,-13,Apple,U,TRUE,A,Unknown,order,checkout,refunded,Mac OS X,10,Pay with a Debit/Credit Card,customer,-5,33500,300,300,0,14750,100
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Unknown,customer,-5,0,2,2,0,14750,15750
+NG,Rivers,Chrome Mobile,-5,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Unknown,customer,-5,0,1,1,0,14750,6100
+NG,Rivers,Chrome Mobile,-5,Infinix,M,TRUE,A,Unknown,order,checkout,completed,Android,7,Unknown,customer,-5,0,1,1,0,14750,11750
+NG,Anambra,Chrome Mobile,-5,Samsung,M,TRUE,A,Unknown,order,checkout,completed,Android,8,Unknown,customer,-5,0,1,1,0,14600,15750
+NG,Borno,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,subscriber,-5,254600,3,1,0,14600,11100
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,17000,1,1,0,14580,16000
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,19000,1,1,0,14500,17500
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,20100,1,1,0,14500,19000
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,50750,2,1,0,14500,11750
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,7800,3,3,0,14500,1700
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,500,4,4,0,14500,17500
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,subscriber,-5,17250,1,1,0,14500,15750
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,subscriber,-5,325400,1,1,0,14400,315000
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,subscriber,-5,426012,5,1,0,14400,51250
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,subscriber,-5,103500,6,3,0,14250,15500
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,subscriber,-5,144800,15,7,0,14250,5400
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,subscriber,-5,160000,10,10,0,14250,15000
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,subscriber,-5,72600,20,10,0,14250,2500
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,31500,2,2,0,14200,14750
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,processing,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,13250,1,1,0,14200,12250
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,processing,Unknown,Unknown,Bank Transfer or Bank Deposit,subscriber,-5,28900,3,1,0,14120,3500
+Unknown,Unknown,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,refunded,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,99000,100,100,0,14000,600
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,21800,2,2,0,14000,9500
+NG,Kaduna,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,65000,4,2,0,14000,16500
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,77500,5,5,0,13750,14500
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,152600,7,7,0,13750,20500
+NG,Osun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,20550,10,10,0,13500,1500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,100000,100,100,0,13500,500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,cancelled,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,400000,400,400,0,13500,500
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,447500,2,1,0,13500,20500
+NG,Anambra,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,189000,3,1,0,13400,60000
+NG,Cross River,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,17750,1,1,0,13350,15750
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,15750,1,1,0,13300,14750
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,16750,1,1,0,13250,15750
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,20000,1,1,0,13250,19000
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,20750,1,1,0,13000,19750
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,200000,1,1,0,13000,200000
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,38500,1,1,0,13000,37500
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,96200,2,1,0,13000,8000
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,53350,7,1,0,13000,2650
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,80700,15,1,0,13000,6000
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,23700,1,1,0,12950,20500
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,53500,2,1,0,12900,14500
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,234000,30,1,0,12800,13500
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,74350,119,1,0,12750,9500
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,14900,1,1,0,12750,14000
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,57000,1,1,0,12750,57000
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,71100,4,1,0,12750,10500
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,90000,23,1,0,12650,68000
+NG,Imo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,57000,3,1,0,12500,12000
+NG,Kwara,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,167000,8,1,0,12250,17500
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,43000,1,1,0,12100,40000
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,15000,1,1,0,12000,14000
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,20000,1,1,0,12000,19000
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,20500,1,1,0,11500,19500
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,44250,3,1,0,11400,14000
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,73000,3,1,0,11300,18500
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,131450,6,1,0,11300,15000
+NG,Ondo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,92500,2,1,0,11300,15500
+NG,Oyo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,19250,1,1,0,11100,18750
+NG,Oyo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,234300,1,1,0,10800,230000
+NG,Oyo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,47600,1,1,0,10600,33500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,16500,1,1,0,10600,15250
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,17000,1,1,0,10500,15750
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,17250,1,1,0,10500,16000
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,16830,1,1,0,10000,17500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,19250,1,1,0,10000,18000
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,19500,1,1,0,10000,18250
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,19500,1,1,0,9700,18250
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,24750,1,1,0,9675,23500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,79250,2,1,0,9600,18500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,60250,3,1,0,9390,20500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,82250,3,1,0,9200,37500
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,38000,2,2,0,9000,18000
+NG,Akwa Ibom,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,42000,5,2,0,9000,6400
+NG,Bayelsa,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,32000,2,2,0,9000,14500
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,44000,2,2,0,8700,21000
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,76250,5,2,0,8500,12000
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,32200,2,2,0,8200,15000
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,9000,2,2,0,8200,3000
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,25650,2,2,0,8000,13500
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,31800,2,2,0,8000,15000
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,45300,2,2,0,8000,21750
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,28200,4,2,0,8000,7500
+NG,Kaduna,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,30340,2,2,0,8000,14750
+NG,Kano,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,40150,2,2,0,7940,23000
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,40000,2,2,0,7800,19000
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,36480,2,2,0,7500,19000
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,26000,2,2,0,7500,14000
+NG,Ondo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,85000,6,2,0,7500,16500
+NG,Oyo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,67700,2,2,0,7400,33500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,32000,2,2,0,7400,14750
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,41500,2,2,0,7300,19500
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,34000,3,3,0,7000,13500
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,247900,208,3,0,6900,20500
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,44700,3,3,0,6900,14000
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,49200,3,3,0,6820,15500
+NG,Imo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,51000,3,3,0,6500,15500
+NG,Kwara,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,55670,3,3,0,6280,18000
+NG,Nasarawa,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,52500,3,3,0,6000,16000
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,59500,8,3,0,6000,15750
+NG,Anambra,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,68000,4,4,0,5775,15750
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,70000,4,4,0,5000,16500
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,138000,8,4,0,4900,18000
+NG,Kaduna,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,62000,4,4,0,4750,14500
+NG,Kano,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,70800,4,4,0,4500,16500
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,85250,5,5,0,4500,15750
+NG,Akwa Ibom,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,53200,5,5,0,4500,3000
+NG,Cross River,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,16500,5,5,0,4500,2700
+NG,Cross River,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,16500,5,5,0,4500,2700
+NG,Delta,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,227500,11,5,0,4500,20500
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,53100,5,5,0,4500,10000
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,100000,5,5,0,4500,18500
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,78750,5,5,0,4400,14750
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,97500,5,5,0,4350,18500
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,195800,5,5,0,4300,37500
+NG,Ondo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,181250,10,5,0,4250,13500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,8500,5,5,0,4250,1200
+NG,Anambra,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,106500,6,6,0,4100,16500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,121500,6,6,0,4000,19000
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,121500,6,6,0,4000,19000
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,133000,7,7,0,4000,17500
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,68800,7,7,0,3950,7900
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,136500,7,7,0,3900,18250
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,148000,7,7,0,3900,20250
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,136400,8,8,0,3900,15750
+NG,Akwa Ibom,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,21200,8,8,0,3900,1500
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,135000,9,9,0,3500,13500
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,175500,9,9,0,3500,18000
+NG,Bayelsa,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,152500,10,10,0,3500,13750
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,197900,10,10,0,3500,20500
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,149580,10,10,0,3500,15000
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,259000,10,10,0,3500,25000
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,733500,40,10,0,3500,15000
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,192500,10,10,0,3500,18250
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,225250,11,11,0,3500,19500
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,198000,12,12,0,3500,15000
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,55400,12,12,0,3500,4350
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,353000,20,20,0,3500,16750
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,121260,21,21,0,3500,19000
+NG,Abia,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,800000,40,40,0,3500,18500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,630000,40,40,0,3500,14500
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,462000,50,50,0,3500,7200
+NG,Federal Capital Territory,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,618200,58,58,0,3000,10000
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,704400,90,90,0,3000,7000
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,90000,90,90,0,3000,500
+NG,Ogun,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,1876500,100,100,0,2800,17750
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,300000,300,300,0,2500,500
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,1020000,500,500,0,2500,1620
+NG,Rivers,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,1020000,500,500,0,2500,1620
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,completed,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,1750000,1000,1000,0,2500,1550
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,on-hold,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,41250,3,3,0,2500,12250
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,processing,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,4350,1,1,0,2500,3250
+NG,Edo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,processing,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,42350,1,1,0,2400,41250
+NG,Kwara,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,processing,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,121000,2,1,0,2400,18500
+NG,Ondo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,processing,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,34750,2,1,0,2400,14250
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,processing,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,43100,4,4,0,2400,10000
+NG,Lagos,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,refunded,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,19750,1,1,0,2400,18250
+NG,Ondo,Unknown,-5,Unknown,Unknown,TRUE,A,Unknown,order,checkout,refunded,Unknown,Unknown,Bank Transfer or Bank Deposit,customer,-5,38500,1,1,0,2400,37500
+Unknown,Unknown,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,10,Bank Transfer or Bank Deposit,administrator,-5,15000,1,1,0,2400,14500
+Unknown,Unknown,Firefox,-5,Apple,D,TRUE,A,Unknown,order,checkout,completed,Mac OS X,10,Bank Transfer or Bank Deposit,customer,-5,39400,2,2,0,2100,17800
+Unknown,Unknown,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,1200,1,1,0,2000,1200
+Unknown,Unknown,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,2400,1,1,0,2000,2400
+Unknown,Unknown,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,10000,1,1,0,1300,10000
+Unknown,Unknown,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,customer,-5,21000,1,1,0,1200,19500
+Unknown,Unknown,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,subscriber,-5,14750,1,1,0,1200,13750
+Unknown,Unknown,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,processing,Windows,10,Bank Transfer or Bank Deposit,customer,-5,13750,1,1,0,1200,12750
+Unknown,Unknown,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,processing,Windows,10,Bank Transfer or Bank Deposit,customer,-5,68750,5,5,0,1200,12750
+NG,Ogun,Edge,-5,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,10,Bank Transfer or Bank Deposit,customer,-5,60000,21,1,0,1000,650
+NG,Kaduna,Firefox,-5,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,10,Bank Transfer or Bank Deposit,customer,-5,26000,1,1,0,0,25000
+NG,Rivers,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,7,Bank Transfer or Bank Deposit,customer,-5,147500,10,2,0,0,14000
+NG,Rivers,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,cancelled,Windows,7,Bank Transfer or Bank Deposit,customer,-5,72000,4,4,0,0,16750
+NG,Lagos,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Linux,Unknown,Bank Transfer or Bank Deposit,customer,-5,74000,4,2,0,0,15000
+NG,Ondo,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,"contributor, customer",-5,61300,2,1,0,0,24450
+NG,Ondo,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,"contributor, customer",-5,30700,4,1,0,0,1200
+NG,Ondo,Chrome,-5,Unknown,D,TRUE,A,Unknown,order,checkout,completed,Windows,10,Bank Transfer or Bank Deposit,"contributor, customer",-5,73100,45,1,0,0,2750

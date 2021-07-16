@@ -1,0 +1,4 @@
+1) Description of customers per region
+2) Where the customers by the highest amount are located
+3) Characteristics of customers with highest amount 
+4) Average, Maximum sales amount per month
